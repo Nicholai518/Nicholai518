@@ -6,7 +6,7 @@ My name is Nicholas and my software engineering journey began back in 2018 when 
 ## Open To Work.
 Nicholas is a dedicated software engineer who champions teamwork, has a passion for continued self-improvement, and prides himself in welcoming everyone to participate. Nicholas’s experiences have ranged from developing mobile applications with New York State to building game platform backend services with a leading co-development game studio.
 
-Check out my [resume](https://docs.google.com/document/d/1aeQ51cut5PldmJVEmyBMcywCVtAubQ0HsxWJb_A_D0k/edit?usp=sharing)
+Check out my [resume](https://nicholaspazienza.com/resume)
 
 Please message me directly on [LinkedIn](https://www.linkedin.com/in/nicholas-pazienza/) to discuss job opportunities. 
 
